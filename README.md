@@ -77,7 +77,7 @@ The dataset was obtained from Maven Analytics and used for educational and portf
 
 ## Screenshot
 Screenshot 1 :- https://github.com/samruddhi-shinde321/Spotify-top-100-songs-Dashboard/blob/main/Spotify%20Dashboard%20Screenshot%201.png
-Screenshot 2 :- 
+Screenshot 2 :- https://github.com/samruddhi-shinde321/Spotify-top-100-songs-Dashboard/blob/main/Spotify%20Dashboard%20Screenshot%202.png
 
 
 ## 👩‍💻 About This Project

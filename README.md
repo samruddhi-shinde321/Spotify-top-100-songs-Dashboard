@@ -72,10 +72,13 @@ Through this project, I gained practical experience in:
 
 ## 🔗 Data Source
 **Maven Analytics**
-## Screenshot
-Screenshot 1 :- 
 
 The dataset was obtained from Maven Analytics and used for educational and portfolio purposes.
+
+## Screenshot
+Screenshot 1 :- https://github.com/samruddhi-shinde321/Spotify-top-100-songs-Dashboard/blob/main/Spotify%20Dashboard%20Screenshot%201.png
+Screenshot 2 :- 
+
 
 ## 👩‍💻 About This Project
 This is one of my initial hands-on Data Analytics projects, created as part of my learning journey. It helped me connect theoretical concepts with practical data exploration and dashboard development.
